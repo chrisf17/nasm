@@ -1,3 +1,0 @@
-/workspaces/nasm/cpp/01_hello/CMakeFiles/rebuild_cache.dir
-/workspaces/nasm/cpp/01_hello/CMakeFiles/edit_cache.dir
-/workspaces/nasm/cpp/01_hello/CMakeFiles/hello.dir
